@@ -16,6 +16,6 @@ as classes e interfaces no formato de arquivos .java</p>
   encapsulamento de métodos para ocultar certas ações específicas das classes, garantindo um design mais modular e encapsulado.</p>
   <p>Segue abaixo o link do projeto e a imagem da UML: </p>
 
-  [Projeto 1](https://github.com/N3onKn1gh7/bootcamp-java-2024/tree/main/iphone_dio)
+  [Projeto 1](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/projetos/iphone)
 
   <img src="https://github.com/N3onKn1gh7/bootcamp-java-2024/blob/main/iphone_dio/img/Untitled%20diagram-2024-07-07-041623.png" width="50%">
