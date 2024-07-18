@@ -1,5 +1,5 @@
-# Exercícios propostos do curso Conhecendo Collections Java
-### Desafios de código proposto e orientado pela professora Camila Cavalcante<br><br><br>
+# Exercícios propostos do curso Conhecendo Collections Java 
+### Desafio de código proposto e orientado pela professora Camila Cavalcante<br><br><br>
 
 ### Operações básicas com List:<br><br>
 
