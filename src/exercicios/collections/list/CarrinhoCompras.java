@@ -1,4 +1,5 @@
-package exercicios.collections;
+package exercicios.collections.list;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,7 +37,21 @@ public class CarrinhoCompras {
 	}
 
 	public int obterNumeroTotalItem() {
-		return produtoMercado.size();
+		int quantidadeTotal = 0;
+		for (ListaCompras item : produtoMercado) {
+			quantidadeTotal += item.getQuantidade();
+		}
+		
+		return quantidadeTotal;
+	}
+	
+	public double obterValorTotalItem() {
+		double valorTotal = 0;
+		for (ListaCompras item : produtoMercado ) {
+			valorTotal += item.getPreco() * item.getQuantidade();
+		}
+		
+		return valorTotal;
 	}
 
 	public void obterDescricoesItem() {
@@ -63,10 +78,13 @@ public class CarrinhoCompras {
 		carrinhoCompras.removerItem("produtoMercado 1");
 		System.out.println("O numero de itens no carrinho é " + carrinhoCompras.obterNumeroTotalItem());
 		
+		//Valor total
+		
+		System.out.println("O valor total dos itens no carrinho é: " + carrinhoCompras.obterValorTotalItem());
+		
 		//Obtendo descrição do item
 		//Na classe ListaCompras tem que ser feito um toString para 
 		carrinhoCompras.obterDescricoesItem(); //Apenas chamando pq já é um Sysout (na linha 42)
 	}
 	
 }
-
