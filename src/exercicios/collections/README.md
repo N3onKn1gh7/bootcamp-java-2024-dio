@@ -15,7 +15,7 @@
 
 <br>
 
-[link do projeto 1: Carrinho de compras](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/list)<br><br><br>
+[link do projeto 1: Carrinho de compras](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/list/operacoesBasicas)<br><br><br>
 
 2.Soma de Números: 
 
