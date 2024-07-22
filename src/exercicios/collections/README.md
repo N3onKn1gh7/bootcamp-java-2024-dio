@@ -31,7 +31,7 @@
 
   <br>
 
-  [link do projeto 2: Soma de números](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/list/Pesquisa)<br><br><br>
+[link do projeto 2: Soma de números](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/list/Pesquisa)<br><br><br>
 
 ### Ordenação em List: <br><br>
 
