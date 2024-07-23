@@ -46,7 +46,7 @@
 
 <br>
 
-[link do projeto 3: Ordenação em List](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/list/Ordenacao)<br><br><br>
+[link do projeto 3: Ordenação de números](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/list/Ordenacao)<br><br><br>
 
 ### Operações básicas com Set:<br><br>
 
@@ -58,4 +58,8 @@ Crie uma classe chamada "ConjuntoPalavrasUnicas" que possui um conjunto de palav
 - `verificarPalavra(String palavra)`: Verifica se uma palavra está presente no conjunto.
 - `exibirPalavrasUnicas()`: Exibe todas as palavras únicas do conjunto.
 </p>
+
+<br>
+
+[link do projeto 4: Conjunto de palavras unicas](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/set/OperacoesBasicas)
 
