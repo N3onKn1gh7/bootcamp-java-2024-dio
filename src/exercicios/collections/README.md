@@ -83,3 +83,19 @@ Crie uma classe chamada "ListaTarefas" que possui um conjunto de objetos do tipo
 
 [link do projeto 5: Lista de tarefas](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/set/Pesquisa)<br><br><br>
 
+### Ordenação com Set:<br><br>
+
+<p>
+Crie uma classe chamada "GerenciadorAlunos" que irá lidar com uma lista de alunos. Cada aluno terá atributos como nome, matrícula e nota. Implementaremos os seguintes métodos:
+
+- `adicionarAluno(String nome, Long matricula, double media)`: Adiciona um aluno ao conjunto.
+- `removerAluno(long matricula)`: Remove um aluno ao conjunto a partir da matricula, se estiver presente.
+- `exibirAlunosPorNome()`: Exibe todos os alunos do conjunto em ordem alfabética pelo nome.
+- `exibirAlunosPorNota()`: Exibe todos os alunos do conjunto em ordem crescente de nota.
+- `exibirAlunos()`: Exibe todos os alunos do conjunto.
+</p>
+
+<br>
+
+[link do projeto 6: Gerenciador de alunos](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/set/Ordenacao)<br><br><br>
+
