@@ -75,7 +75,7 @@ public class GerenciadorAlunos {
 		// Adicionando alunos
 		gerenciador.adicionarAluno("Joao", 12345, 8.5);
 		gerenciador.adicionarAluno("Maria", 23456, 7.3);
-		gerenciador.adicionarAluno("Pedro", 34567, 9.1);
+		gerenciador.adicionarAluno("Junior", 34567, 9.1);
 		gerenciador.adicionarAluno("Roberto", 45678, 8.0);
 
 		// Exibindo todos os alunos
