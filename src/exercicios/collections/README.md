@@ -99,3 +99,36 @@ Crie uma classe chamada "GerenciadorAlunos" que irá lidar com uma lista de alun
 
 [link do projeto 6: Gerenciador de alunos](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/set/Ordenacao)<br><br><br>
 
+### Operações básicas com Map :<br><br>
+
+<p>
+Crie uma classe chamada "Dicionario" que utilize um Map para armazenar palavras e suas respectivas definições. Implemente os seguintes métodos:
+
+- `adicionarPalavra(String palavra, String definicao)`: Adiciona uma palavra e sua definição ao dicionário, associando a palavra à sua definição correspondente.
+- `removerPalavra(String palavra)`: Remove uma palavra do dicionário, dado o termo a ser removido.
+- `exibirPalavras()`: Exibe todas as palavras e suas definições do dicionário, mostrando cada palavra seguida de sua respectiva definição.
+- `pesquisarPorPalavra(String palavra)`: Pesquisa uma palavra no dicionário e retorna sua definição correspondente.
+</p>
+
+<br>
+
+[link do projeto 7: Dicionário](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/map/operacoesBasicas)<br><br><br>
+
+### Pesquisa com Map: <br><br>
+
+
+<p>
+Crie uma classe chamada "ContagemPalavras" que utilize um Map para armazenar as palavras e a quantidade de vezes que cada palavra aparece em um texto. Implemente os seguintes métodos:
+
+- `adicionarPalavra(String palavra, Integer contagem)`: Adiciona uma palavra à contagem.
+- `removerPalavra(String palavra)`: Remove uma palavra da contagem, se estiver presente.
+- `exibirContagemPalavras()`: Exibe todas as palavras e suas respectivas contagens.
+- `encontrarPalavraMaisFrequente()`: Encontra a palavra mais frequente no texto e retorna a palavra e sua contagem.
+</p>
+
+<br>
+
+[link do projeto 8: Contagem de palavras](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/exercicios/collections/map/pesquisa)
+
+
+
