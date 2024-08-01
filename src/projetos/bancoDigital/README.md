@@ -17,6 +17,6 @@ Criando um banco digital com Java e Orientação a Objetos
   Depois de pronto achei interessante a sugestão do professor e criei uma lista de clientes. Também pensei em usar o que aprendi
   de aulas passadas para implementar alguns tratamentos de exceções no projeto/p>
 
-  [Projeto 2](https://github.com/N3onKn1gh7/bootcamp-java-2024-dio/tree/main/src/projetos/bancoDigital)
+  
 
   
