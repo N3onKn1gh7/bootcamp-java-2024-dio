@@ -15,7 +15,7 @@ Criando um banco digital com Java e Orientação a Objetos
 
 <p>Segui o passo a passo das aulas do professor Venilton Falvo Jr digitando o código junto com ele no meu Eclipse.
   Depois de pronto achei interessante a sugestão do professor e criei uma lista de clientes. Também pensei em usar o que aprendi
-  de aulas passadas para implementar alguns tratamentos de exceções no projeto/p>
+  de aulas passadas para implementar alguns tratamentos de exceções no projeto</p>
 
   
 
